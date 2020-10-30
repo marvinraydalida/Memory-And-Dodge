@@ -1,0 +1,13 @@
+Step 1: Install Turbo C++
+
+Step 2: Copy GAMEV1.exe and GAMEV1.obj to 
+	path: C:\TURBOC3\SOURCE (or where your turb c++ is installed)
+Step 3: Open Turbo C++
+
+Step 4: Click on Open Pre-Compiled EXE File...
+
+Step 5: Click GAMEV1.exe
+
+Step 6: Enjoy
+
+other note: No need to Copy the C file it's just the source code
